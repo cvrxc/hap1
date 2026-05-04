@@ -1,5 +1,5 @@
 markdown
-#GitHub User Finder (Поиск пользователей GitHub)
+# GitHub User Finder (Поиск пользователей GitHub)
 **Автор:** Степан Жиров
 **Вариант:** GitHub User Finder
 **Дата сдачи:** 04.05.2026
